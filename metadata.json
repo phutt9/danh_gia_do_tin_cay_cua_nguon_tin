@@ -1,0 +1,8 @@
+{
+  "name": "Công cụ Đánh giá Độ tin cậy Nguồn tin",
+  "description": "Hệ thống hỗ trợ sinh viên và người nghiên cứu thẩm định, chấm điểm độ tin cậy của bài viết, báo chí và thông tin học thuật dựa trên 6 tiêu chí chuẩn mực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
